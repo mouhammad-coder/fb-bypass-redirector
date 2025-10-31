@@ -1,9 +1,0 @@
-{
-  "version": "1.0",
-  "type": "link",
-  "title": "Test Article — Link Shim PoC",
-  "author_name": "Test Publisher",
-  "html": "<a href=\"https://mouhammad-coder.github.io/fb-bypass-redirector/\">Read the PoC redirector</a>",
-  "width": 600,
-  "height": 200
-}
